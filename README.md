@@ -1,5 +1,5 @@
 # POS-Kotlin-Jetpack-Compose-App
 My first native Android Application
-* ROOm Database
+* ROOM Database
 * Kotlin Programming Language
 * Jetpack Compose
